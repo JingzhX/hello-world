@@ -53,4 +53,5 @@ pw.data$CRD.Area.mean <- rowMeans(pw.data[,grep("CRD.*Area",colnames(pw.data),pe
 pw.data$CRD.Count.mean <- rowMeans(pw.data[,grep("CRD.*Count",colnames(pw.data),perl = T)])
 
 ### 4. Normalization
+# use all the values without quality control.
 
