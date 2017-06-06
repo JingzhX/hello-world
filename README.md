@@ -7,3 +7,11 @@ Jim here. I think we next need to use the pathway based anaysis to find our inte
 Dear all,
 
 Thanks for Martin's suggestions on how to combine all the databases of PPI and IPA. I think we should set up a public repo to share all the useful databases we have. Please send me a datasheet recording the databases you are using now. 
+
+### databases lists
+* IPA
+* KEGG
+* BioPlex
+* DrugBank
+* STITCH
+* PubChem
